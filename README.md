@@ -26,5 +26,6 @@
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Sugunachenamallu/leetcode/tree/master/0610-triangle-judgement) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sugunachenamallu/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
