@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
+| [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,5 +35,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
