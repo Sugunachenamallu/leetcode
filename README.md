@@ -41,4 +41,5 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
