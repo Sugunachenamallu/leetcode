@@ -12,6 +12,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -40,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
