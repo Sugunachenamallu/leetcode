@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
@@ -45,4 +46,12 @@
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
