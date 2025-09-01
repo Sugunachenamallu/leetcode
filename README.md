@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
