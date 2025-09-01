@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 ## Database
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
