@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
