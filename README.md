@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sugunachenamallu/leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
