@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -20,6 +21,7 @@
 | [0011-container-with-most-water](https://github.com/Sugunachenamallu/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
