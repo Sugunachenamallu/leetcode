@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Sugunachenamallu/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Sugunachenamallu/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sugunachenamallu/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Sugunachenamallu/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
