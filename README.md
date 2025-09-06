@@ -46,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 ## Database
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/Sugunachenamallu/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Binary Search
@@ -92,4 +94,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
