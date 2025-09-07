@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Sugunachenamallu/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
