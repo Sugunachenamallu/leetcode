@@ -41,6 +41,7 @@
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -68,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/Sugunachenamallu/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
