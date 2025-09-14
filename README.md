@@ -79,6 +79,7 @@
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Sugunachenamallu/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Sugunachenamallu/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
