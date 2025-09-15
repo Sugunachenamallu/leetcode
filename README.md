@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -31,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -90,6 +93,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
