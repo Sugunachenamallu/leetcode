@@ -92,6 +92,7 @@
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
 | [2383-add-two-integers](https://github.com/Sugunachenamallu/leetcode/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -145,4 +146,12 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Sugunachenamallu/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
