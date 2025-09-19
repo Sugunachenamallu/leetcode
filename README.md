@@ -141,10 +141,12 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sugunachenamallu/leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Sugunachenamallu/leetcode/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sugunachenamallu/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sugunachenamallu/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Enumeration
 |  |
