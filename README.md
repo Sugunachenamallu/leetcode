@@ -25,6 +25,7 @@
 | [0414-third-maximum-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,5 +177,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
