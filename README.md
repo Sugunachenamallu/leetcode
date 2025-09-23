@@ -24,6 +24,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sugunachenamallu/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -105,6 +107,7 @@
 | [0326-power-of-three](https://github.com/Sugunachenamallu/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
 | [2383-add-two-integers](https://github.com/Sugunachenamallu/leetcode/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
