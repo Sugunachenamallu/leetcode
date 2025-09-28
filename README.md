@@ -196,4 +196,16 @@
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sugunachenamallu/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sugunachenamallu/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sugunachenamallu/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
