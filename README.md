@@ -83,6 +83,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sugunachenamallu/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sugunachenamallu/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sugunachenamallu/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sugunachenamallu/leetcode/tree/master/0344-reverse-string) |
@@ -199,6 +200,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sugunachenamallu/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sugunachenamallu/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
