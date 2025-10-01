@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/Sugunachenamallu/leetcode/tree/master/0610-triangle-judgement) |
+| [1301-reformat-department-table](https://github.com/Sugunachenamallu/leetcode/tree/master/1301-reformat-department-table) |
 | [1837-daily-leads-and-partners](https://github.com/Sugunachenamallu/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Sugunachenamallu/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sugunachenamallu/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
