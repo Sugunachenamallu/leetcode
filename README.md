@@ -217,4 +217,20 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sugunachenamallu/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
