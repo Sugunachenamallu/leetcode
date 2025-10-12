@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sugunachenamallu/leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +80,7 @@
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
