@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sugunachenamallu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sugunachenamallu/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sugunachenamallu/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Sugunachenamallu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sugunachenamallu/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0205-isomorphic-strings) |
@@ -208,6 +210,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sugunachenamallu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
