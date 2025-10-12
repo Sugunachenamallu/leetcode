@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Sugunachenamallu/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sugunachenamallu/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sugunachenamallu/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sugunachenamallu/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Sugunachenamallu/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sugunachenamallu/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sugunachenamallu/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sugunachenamallu/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sugunachenamallu/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
