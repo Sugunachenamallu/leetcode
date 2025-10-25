@@ -109,6 +109,7 @@
 | [0389-find-the-difference](https://github.com/Sugunachenamallu/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0541-reverse-string-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Database
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sugunachenamallu/leetcode/tree/master/0011-container-with-most-water) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Sugunachenamallu/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Union Find
 |  |
 | ------- |
