@@ -146,6 +146,7 @@
 | [2491-smallest-even-multiple](https://github.com/Sugunachenamallu/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sugunachenamallu/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2544-alternating-digit-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/2544-alternating-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
