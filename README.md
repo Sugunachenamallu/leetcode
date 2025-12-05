@@ -39,6 +39,7 @@
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sugunachenamallu/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -229,6 +230,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sugunachenamallu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
