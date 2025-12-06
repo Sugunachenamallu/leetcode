@@ -143,6 +143,7 @@
 | [0507-perfect-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/Sugunachenamallu/leetcode/tree/master/1025-divisor-game) |
 | [2383-add-two-integers](https://github.com/Sugunachenamallu/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sugunachenamallu/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
@@ -187,6 +188,7 @@
 | [0118-pascals-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sugunachenamallu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
+| [1025-divisor-game](https://github.com/Sugunachenamallu/leetcode/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -300,4 +302,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sugunachenamallu/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sugunachenamallu/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sugunachenamallu/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
