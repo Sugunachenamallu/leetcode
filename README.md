@@ -31,6 +31,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sugunachenamallu/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@
 | [0048-rotate-image](https://github.com/Sugunachenamallu/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sugunachenamallu/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sugunachenamallu/leetcode/tree/master/0326-power-of-three) |
@@ -234,10 +236,12 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/Sugunachenamallu/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sugunachenamallu/leetcode/tree/master/2507-number-of-common-factors) |
 ## Matrix
@@ -329,4 +333,16 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sugunachenamallu/leetcode/tree/master/1025-divisor-game) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
