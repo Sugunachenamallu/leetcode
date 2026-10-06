@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sugunachenamallu/leetcode/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sugunachenamallu/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
