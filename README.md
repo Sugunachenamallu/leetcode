@@ -47,6 +47,7 @@
 | [0792-binary-search](https://github.com/Sugunachenamallu/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Sugunachenamallu/leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Sugunachenamallu/leetcode/tree/master/1089-duplicate-zeros) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
+| [1046-last-stone-weight](https://github.com/Sugunachenamallu/leetcode/tree/master/1046-last-stone-weight) |
 ## Recursion
 |  |
 | ------- |
