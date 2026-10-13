@@ -49,6 +49,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Sugunachenamallu/leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Sugunachenamallu/leetcode/tree/master/1089-duplicate-zeros) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sugunachenamallu/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sugunachenamallu/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -93,6 +94,7 @@
 | [0414-third-maximum-number](https://github.com/Sugunachenamallu/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sugunachenamallu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sugunachenamallu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sugunachenamallu/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -258,6 +260,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Sugunachenamallu/leetcode/tree/master/0463-island-perimeter) |
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
+| [1329-sort-the-matrix-diagonally](https://github.com/Sugunachenamallu/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sugunachenamallu/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
