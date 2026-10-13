@@ -55,6 +55,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sugunachenamallu/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sugunachenamallu/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sugunachenamallu/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3321-type-of-triangle](https://github.com/Sugunachenamallu/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -216,6 +217,7 @@
 | [0898-transpose-matrix](https://github.com/Sugunachenamallu/leetcode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sugunachenamallu/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sugunachenamallu/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sugunachenamallu/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sugunachenamallu/leetcode/tree/master/0264-ugly-number-ii) |
 | [1046-last-stone-weight](https://github.com/Sugunachenamallu/leetcode/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sugunachenamallu/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Recursion
 |  |
 | ------- |
